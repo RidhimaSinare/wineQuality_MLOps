@@ -1,0 +1,1 @@
+A simple demo app to understand the MLOps workflow and Data Version Control, Flask deployment and MLFlow
