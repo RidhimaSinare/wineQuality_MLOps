@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="src", 
+    name="wineq", 
     version="0.0.1",
     description="Its a wine q package",
     author = "Ridhima",

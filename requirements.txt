@@ -1,6 +1,3 @@
-# local package install
--e .
-
 # third party packagas
 dvc
 dvc[gdrive]
